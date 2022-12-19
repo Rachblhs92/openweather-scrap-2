@@ -3,7 +3,7 @@
 """
 Created on Fri Dec 17 01:10:30 2021
 
-@author: fitec
+@author: &&
 """
 
 from IPython.display import Image
